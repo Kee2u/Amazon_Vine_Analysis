@@ -19,4 +19,5 @@ Amazon Vine is a service that allows manufacturers and publishers to receive rev
 ## Summary
 On comparing the percentages of 5 star ratings for both vine and non-vine reviews, it seems that there is no bias towards favourable reviews from vine members.
 We must be careful to make this conclusion since there are only 47 reviews from vine members compared to 412169 reviews from non-vine members. There could be a sampling error at play here. We might see different results if the sample size of the vine member reviews was increased.
+
 We could repeat the analysis by omitting the helpful votes filter. We are trying to see if there is a bias towards positive reviews from vine members and it would be helpful if we increase our dataset. 
