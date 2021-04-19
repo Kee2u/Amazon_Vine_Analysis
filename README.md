@@ -5,13 +5,13 @@ Amazon Vine is a service that allows manufacturers and publishers to receive rev
 
 ## Results
 ### Vine Reviews
- - There were a total of 47 vine reviews in the dataset.
+ - There was a total of 47 vine reviews in the dataset.
  - 15 of these were 5 star reviews.
  - 32% of the total vine reviews were 5 stars.
  <img src = "https://github.com/Kee2u/Amazon_Vine_Analysis/blob/master/pictures/Paid_df.PNG?raw=true">
 
 ### Non-Vine Reviews
- - There were a total of 412169 normal reviews in the dataset.
+ - There was a total of 412169 normal reviews in the dataset.
  - 247221 of these were 5 star reviews.
  - 60% of the total non-vine reviews were 5 stars.
  <img src = "https://github.com/Kee2u/Amazon_Vine_Analysis/blob/master/pictures/Unpaid_df.PNG?raw=true">
